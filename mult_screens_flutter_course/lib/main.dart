@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:mult_screens_flutter_course/categories.dart';
+import 'package:mult_screens_flutter_course/screens/categories.dart';
 
 final theme = ThemeData(
     // brightness: Brightness.dark,
